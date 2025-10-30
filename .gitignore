@@ -118,3 +118,6 @@ Thumbs.db
 *.jpg
 *.jpeg
 *.gif
+
+# Allow plots folder images
+!plots/*.png
